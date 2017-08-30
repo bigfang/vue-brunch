@@ -5,7 +5,7 @@
     },
 
     "rules": {
-        "indent": ["error", 4],
+        "indent": ["error", 2],
         "space-in-parens": ["error", "never"]
     },
 

@@ -2,14 +2,13 @@
 
 Adds support to Brunch for pre-compiling single file Vue components.
 
-> **NOTE**: This project is no longer maintained.
 
 ## Installation
 
 For 2.x support, use the master branch...
 
 ```bash
-npm install vue-brunch --save-dev
+npm install bigfang/vue-brunch --save-dev
 ```
 
 And for 1.x support use the 1.x branch...
