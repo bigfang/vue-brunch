@@ -1,20 +1,13 @@
-# Vue Brunch
+# Vuejs Brunch
 
 Adds support to Brunch for pre-compiling single file Vue components.
+Based on vue-brunch plugin.
 
 
 ## Installation
 
-For 2.x support, use the master branch...
-
 ```bash
-npm install bigfang/vue-brunch --save-dev
-```
-
-And for 1.x support use the 1.x branch...
-
-```bash
-npm install vue-brunch#1.x --save-dev
+npm install vuejs-brunch --save-dev
 ```
 
 Once the plugin has been installed, you are all set.

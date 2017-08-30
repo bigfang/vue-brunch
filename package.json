@@ -1,17 +1,25 @@
 {
-    "name": "vue-brunch",
-    "description": "Adds support to Brunch for pre-compiling single file Vue components.",
-    "author": "Nathaniel Blackburn <support@nblackburn.uk> (http://nblackburn.uk)",
-    "version": "2.0.1",
+    "name": "vuejs-brunch",
+    "description": "Adds support to Brunch for pre-compiling single file Vue components.Based on vue-brunch plugin.",
+    "author": "bigfang",
+    "version": "2.0.3",
     "license": "MIT",
     "main": "src/index.js",
     "scripts": {
         "test": "ava test --verbose"
     },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bigfang/vue-brunch.git"
+    },
     "keywords": [
         "vue",
         "brunch"
     ],
+    "bugs": {
+      "url": "https://github.com/bigfang/vue-brunch/issues"
+    },
+    "homepage": "https://github.com/bigfang/vue-brunch#readme",
     "dependencies": {
         "vueify": "^9.4.0"
     },
