@@ -14,7 +14,7 @@ class VueBrunch {
 
     constructor(config) {
         this.config = config && config.plugins && config.plugins.vue || {};
-        this.styles = Object.create(null);
+        this.styles = {};
     }
 
     /**
