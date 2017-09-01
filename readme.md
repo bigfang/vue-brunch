@@ -1,7 +1,7 @@
 # Vuejs Brunch
 
 Adds support to Brunch for pre-compiling single file Vue components.
-Based on vue-brunch plugin.
+Based on [vue-brunch](https://github.com/theocodes/vue-brunch) plugin.
 
 
 ## Installation
@@ -32,4 +32,4 @@ plugins: {
 
 ## License
 
-This component is licensed under [MIT](), see [license.md](license.md) for details.
+This component is licensed under `MIT`, see [license.md](license.md) for details.
