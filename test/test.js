@@ -1,5 +1,5 @@
 import test from 'ava';
-import VueBrunch from '../source';
+import VueBrunch from '..';
 
 const plugin = new VueBrunch;
 
